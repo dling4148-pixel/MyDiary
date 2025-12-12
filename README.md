@@ -21,7 +21,7 @@ MyDiaryは日記投稿システムです
 ---
 
 ## メソッドについて
-メソッド名は、'setName(Sting name)'のようにキャメルケースにしてください。
+メソッド名は、setName(Sting name)のようにキャメルケースにしてください。
 
 ```java
 public void setName(String name){
